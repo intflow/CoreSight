@@ -121,7 +121,7 @@ This list is sorted by the likelihood of wall contact based on maximum distance 
 <details>
 <summary>Q: Among the 4 water dispensers, which water dispenser do pigs use most frequently? Calculate by occupancy rate and produce results</summary>
 
-A: In the summary data provided for each time period, individual occupancy times for each water dispenser (water areas, water_area1~4) are not aggregated separately, only the total sum of all water_area1~4 is given. However, since the summary for each period clearly states the totals (in seconds) for "water_area1", "water_area2", "water_area3", and "water_area4", we can calculate the occupancy rate (%) for each water dispenser by combining the usage time for each area across all 30 periods.
+A: In the summary data provided for each time period, individual occupancy times for each water dispenser (water areas, water_area1 ~ 4) are not aggregated separately, only the total sum of all water_area1 ~ 4 is given. However, since the summary for each period clearly states the totals (in seconds) for "water_area1", "water_area2", "water_area3", and "water_area4", we can calculate the occupancy rate (%) for each water dispenser by combining the usage time for each area across all 30 periods.
 
 ### Time Usage Aggregation by Water Dispenser (Rounded)
 
