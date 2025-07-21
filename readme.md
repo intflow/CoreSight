@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on behavioral analysis using computer vision techniques to detect and analyze animal interactions with environmental objects.
 
-## Rat Analysis
+## 1. Rat Analysis
 
 ### Analysis Process
 - **Research Question**: How many times does a rat's paw touch the wall?
@@ -93,7 +93,7 @@ This list is sorted by the likelihood of wall contact based on maximum distance 
 </tr>
 </table>
 
-## Pig Analysis
+## 2. Pig Analysis
 
 ### Analysis Process
 - **Research Question**: Which water dispenser does the pig use most frequently?
@@ -153,8 +153,6 @@ A: In the summary data provided for each time period, individual occupancy times
 - Dispenser 3: 56406 ÷ 72937 × 100 ≈ **77%**
 - Dispenser 4: 8543 ÷ 72937 × 100 ≈ **12%**
 
-</details>
-
 #### Experimental Results
 - **Analysis Period**: Complete data across 30 time periods
 - **Total Usage Time**: 72937 seconds (approximately 20.3 hours)
@@ -171,6 +169,7 @@ Occupancy rate by water dispenser (percentage of total usage time):
 - Dispenser 4: 12%
 
 **Therefore, Water Dispenser 3 has the highest occupancy rate and is overwhelmingly the most frequently used.**
+</details>
 
 <details>
 <summary>Q: Can you find points where water consumption activity changed dramatically relative to other periods? Which time periods were these?</summary>
