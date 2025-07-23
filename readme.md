@@ -1,7 +1,17 @@
-# CoreSight Analysis Project
+# CoreSight
+<sub>AI Agent for Quantitative Video Analysis</sub>
+
+![System Flow](asset/flow.png)
 
 ## Overview
-This project focuses on behavioral analysis using computer vision techniques to detect and analyze animal interactions with environmental objects.
+This technology is a specialized video analysis AI Agent designed to quantitatively analyze quantities, movements, and interactions of objects in various visual situations. While existing VLMs for video analysis show strengths in semantic understanding and description generation of images/videos, they have limitations in quantitative situational judgment such as object counting, multi-object tracking, attribute comparison, and causal relationship inference. This technology overcomes these limitations and realizes quantitative visual-language analysis with a low-cost structure capable of real-time processing.
+
+## Key Features
+- Natural language-based object counting (e.g., "How many people are standing in line?")
+- Multi-object tracking and change detection (e.g., "Which direction are people moving?")
+- Time-based causal relationship inference (e.g., "After which event did the number of vehicles increase?")
+- Attribute comparison and anomaly detection (e.g., "Who moved the fastest?")
+- High-speed lightweight inference with reduced GPU dependency
 
 ## 1. Rat Analysis
 
